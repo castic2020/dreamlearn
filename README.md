@@ -20,13 +20,11 @@
   ![](https://github.com/castic2020/dreamlearn/blob/master/2d1c4ddd92c3f52a7979c0be192776e.png)
 
 # 系统框图
-   ![](https://github.com/castic2020/actormic/blob/master/%E6%BC%94%E5%A5%8F%E8%80%85%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E9%BA%A6%E5%85%8B%E9%A3%8E.jpg)
+](https://github.com/castic2020/dreamlearn/blob/master/8ca6c957eeedb595fd0b380fd01e17f.png)
 
 
 # 软件设计
    ![](https://github.com/castic2020/actormic/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.jpg)
-
-
 # 电路设计
    zyh
 
